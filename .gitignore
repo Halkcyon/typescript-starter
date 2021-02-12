@@ -396,3 +396,10 @@ Temporary Items
 # Local
 .env
 dist
+
+/.yarn/*
+!/.yarn/releases
+!/.yarn/plugins
+!/.yarn/sdks
+
+!/.yarn/cache
